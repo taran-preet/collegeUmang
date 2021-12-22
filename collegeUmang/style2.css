@@ -1,0 +1,14 @@
+.banner-register-btn {
+    background-color: green !important;
+    border-radius: 100px 20px;
+    font-family: 'Times New Roman', Times, serif;
+    border: 0.5px solid white;
+    font-size: 25px;
+}
+
+.banner-register-btn:hover {
+    background-color: hsl(0, 0%, 0%, 0.8) !important;
+    color: #54b436;
+    border: 1px solid white;
+    transition: 0.2s linear;
+}
